@@ -12,4 +12,7 @@ some data and how to use the paging and sorting repository in Spring Data. From 
 your GraphQL query just needs to pass the appropriate arguments to the repository to return
 the appropriate results. 
 
+# Via browser: http://localhost:8080/h2-console
+`JDBC URL: jdbc:h2:mem:people`
+
 Recording: https://www.twitch.tv/videos/1481210171 
